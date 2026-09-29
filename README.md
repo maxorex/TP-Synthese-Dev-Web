@@ -1,5 +1,4 @@
-# TP01-CATALOGUE
-tp synthese du cour developpement web
+Travail pratique synthèse réalisé avec le framework Laravel dans le cadre du cours de développement web.
 
 Blackriver Blades est un site e-commerce thématique spécialisé dans la vente d'armes médiévales et d'équipement de combat (épées, dagues, haches, arcs, etc.), entièrement développé avec le framework Laravel.
 

@@ -3,7 +3,7 @@ tp synthese du cour developpement web
 
 Blackriver Blades est un site e-commerce thématique spécialisé dans la vente d'armes médiévales et d'équipement de combat (épées, dagues, haches, arcs, etc.), entièrement développé avec le framework Laravel.
 
-Matias Godbout 2290121
+Matias Godbout 
 
 http://es.4d6.2290121.techinfo-cstj.ca
 
